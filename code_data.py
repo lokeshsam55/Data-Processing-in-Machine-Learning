@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
+# Spyder Python 3.6 
 
 print("hello world")
 import pandas as pd
